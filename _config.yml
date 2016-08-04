@@ -6,9 +6,9 @@ color:
   saturation: 0.4437256520614028
   rhythmicContrast: 0.4314937824383378
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
 name: '05052016'
